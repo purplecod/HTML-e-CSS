@@ -1,0 +1,20 @@
+Variáveis em CSS
+
+Primeiramente, falemos sobre a pseudoclasse :root do CSS. Ela configura globalmente a estilização da página, geralmente usando a tag <html> como seletor. Normalmente, todas as tags que o site possui, com exceção das que derivam da <head> (responsável pela configuração do site), derivam da <html> que é responsável pelos elementos visuais da página.  
+
+Como a pseudoclasse :root explicada, agora aprendamos a sintaxe das variáveis de CSS.
+
+
+	--Cor02: #c5ebd6;
+
+	"--": Marcação que indica variável.
+
+	"Cor02*": Nome da variável (*Pode ter qualquer nome desde que não tenha caracteres especiais e espaços).
+
+	":": Separação do nome da variável com valor.
+
+	"#c5ebd6": Uma cor em hexadecimal. É o valor que será amarzenado na variável para ser usado à vontade em outras partes do projeto.
+
+	";": Indica final de uma função.
+
+Colocando as variáveis na pseudoclasse, as variáveis estarão disponíveis para serem usadas em todo o código CSS.

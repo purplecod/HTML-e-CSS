@@ -1,0 +1,23 @@
+Modelo de Caixas
+
+Os elementos visíveis (parágrafos, títulos e ect.) das páginas de sites são caixas que contêm altura (height), largura (width), borda (border), preenchimento, que é o espaço entre a borda e a parte de conteúdo, que, em inglês, se chama padding e a última camada, a margem (margin). Também tem o traçado, que fica entre a borda e a margem, mas é algo opcional
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tipos de Caixas e Seus Comportamentos
+
+Box-Level
+
+Suponhamos que temos uma página web preenchida de texto mas, o texto acaba na metade de uma linha. Se puséssemos um elemento (que é uma caixa) na mesma parte onde o texto acaba, o elemento automaticamente irá para pular a linha e vai preencher toda a largura disponível.
+
+Inline-Level
+
+Como o próprio nome sugere, esses são os elementos que suportam ficar ao lado de outros elementos e textos. Ele se adapta com a largura disponível e não pula de linha quando é posto ao lado de outras coisas na mesma linha.
+
+Exemplos de tags que têm o comportamento "box-level":
+
+<div>,<h1>-<h6>,<p>,<main>,<header>,<nav>,<article> e ect.
+
+Exemplos de tags que têm o comportamento "inline-level":
+
+<span>, <a>, <code>, <small>, <strong>, <em>, <sup>-<sub, <label> e ect.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+É possível ver como funciona o modelo de caixas usando a função "inspecionar" na Google Chrome. Lá mostrará como é o padrão de altura, largura e ect. do navegador, e você poderá fazer testes sem alterar o código-fonte para buscar melhores resultados.

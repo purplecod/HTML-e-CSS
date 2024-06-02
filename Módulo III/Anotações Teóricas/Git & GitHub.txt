@@ -1,0 +1,40 @@
+Uma explicação superficial de Git e GitHub
+
+Para que servem?
+
+Git (Repositório Local)
+
+Suponha que estamos numa versão estável de um projeto, mas que necessita de melhorias. Porém, tentando aplicar essas novas melhorias, surgem novos problemas complicados de serem resolvidos, que acabam comprometendo até coisas que, na versão anterior, funcionavam normalmente. Sendo incapaz de resolver o problema, sente-se a necessidade de voltar à versão anterior, onde tudo que havia sido programado, estava funcionando. Mas como fazer isso? Neste momento que recorre-se ao Git!
+Com o Git, é possível gerenciar versões nas quais julga-se um ponto de partida válido a se voltar caso o
+projeto tenha tomado um rumo inesperado.
+
+GitHub (Repositório Remoto)
+
+Estando com um projeto amarzenado em um repositório local, sente-se a necessidade de acessar o projeto de uma outra máquina. Como proceder? Antes de tudo, é necessário que o projeto seja enviado ao servidor do GitHub antes que se perca o acesso à máquina que possui o projeto localmente. Quando enviado, o projeto estará disponível na nuvem, onde, depedendo dos parâmetros de acessibilidade, as máquinas que têm permissão do autor, vão acessar o projeto, modificá-lo e até mesmo exclui-lo.
+
+Como Baixá-los?
+
+Git:
+
+Clicando nesses links abaixo:
+
+Entre nesse site: https://git-scm.com/
+
+Nele, clique no botão escrito "Donwload for Windows". Será baixada a versão mais recente.
+
+GitHub Desktop:
+
+Entrando neste site: desktop.github.com, novamente, clique em "Donwload for Windows". No caso de GuiHub Desktop, só há versão para o Windows 64 bits.
+--------------------------------------------------------------------------------------------------------------------------------
+Criando Repositório Local
+
+Para criar um repositórios, siga os seguites passos:
+
+Seleção e Nomeação: Vá até a pasta onde está localizado o projeto que está sendo trabalhado, e copie e cole o nome da pasta na caixa de texto "Name" do GitHub Desktop.
+
+Selecionando Caminho: Ao lado da caixa de texto "Local path" há um botão, clique nele e navegue até a pasta onde a pasta do projeto está localizada. ATENÇÃO: é onde a pasta do PROJETO está localizada, não a própria pasta em si.
+
+Git Ignore: Selecione a linguagem de programação na qual o projeto está sendo desenvolvido, para que os Git ignore os arquivos que não são relevantes para o projeto.
+
+
+

@@ -1,0 +1,15 @@
+1º Avaliação – Apresentação
+
+ Para esse teste, você deverá realizar o download do aplicativo de acesso a nosso software de demonstração e elaborar uma apresentação (ppt) de uma das funções do mesmo. Para download acesse o link : https://download.primestart.net/Setup_PrimeStartClientDemo.exe
+
+ Para seu acesso utilize os dados de login e senha abaixo:
+
+        Usuário: demo
+
+        Senha:  demo
+
+Essa versão tem a intenção de apresentar todos os recursos disponíveis no PrimeStart. Você poderá realizar todas as funções, porém para o teste gostaríamos que analisasse sobre o módulo PrimeStart > Principal > Menu Cadastros (Entidades) > Parceiros. Trata-se da funcionalidade de cadastro de clientes e fornecedores do software, com operações para inserir, excluir, editar, obter uma listagem e realizar uma busca.
+
+ Baseando-se nas funções dessa tela especificamente, gostaríamos que montasse uma apresentação no Microsoft Power Point como um manual, mostrando como utilizá-la e que funções estão disponíveis. O autoaprendizado sobre como utilizar as funcionalidades desta tela faz parte da avaliação. No caso de dúvidas ou problemas com a instalação do aplicativo de acesso à versão demo, pode entrar em contato conosco.
+
+OBS: Nos envie esse teste em formato PDF.

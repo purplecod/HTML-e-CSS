@@ -1,0 +1,17 @@
+As tags de agrupamento são usadas para dar um "endereço" à parte da página para, normalmente, aplicar estilos às partes específicas. São comumentes chamadas de "contêiner" e são representadas por tags como <div> (box-level) e <span> (inline-level) de forma não semântica. Nesta nota, daremos ênfase às tags semânticas e aprenderemos como utilizá-las apropriadamente.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Header: Tradução da palavra é cabeçalho. Serve para conter as principais informações do site em si. Por exemplo, o ícone do site que, ao clicar, faz o usuário voltar à página principal, nome do site, título principal, barra de pesquisa e outros links importantes (ótimos para ser postos na tag <nav>).
+
+Main: Tradução: principal. Como o próprio nome sugere, esta tag é o espeço perfeito para colocar o conteúdo principal da página como vídeos artigos e textos.
+
+Section: tradução: seção. Essa tag é ultilizada para mostrar conteúdo de um assunto específico. Num site de notícias por exemplos, na seção de esportes poderia mostrar as novidades no brasileirão, calendários dos times, em outra seção, notícias relacionada à economia e ECT.
+
+Article: tradução: Artigo. Normalmente inserido à tag <section>, ele indica que esse é o conteúdo em si da página.
+
+aside: tradução: Aparte. É normalmente um pequeno conteúdo periférico próximo ao artigo. Comumente usado para dar créditos a alguém por imagens e ao autor do artigo.
+
+footer: tradução: Rodapé. É normalmente usado para colocar links de contatos, créditos ao criador do site, copyrights e ECT.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Como é notável, essas tags são de suma importância para organização de sites. Também para facilitar a minha vida ao estilizar as páginas, tanto para dar semântica à página a fazendo ter mais alcance para os buscadores.

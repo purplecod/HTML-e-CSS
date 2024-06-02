@@ -1,0 +1,25 @@
+Para que servem os identificadores de elementos?
+Servem para identificar elementos HTMLS (tags) para o CSS, fazendo aplicações de estilos de maneira mais controlada do que seria usando somente tags como identificadoras.
+
+ID, apelidado por mim como "Identificador Exclusivo", são representadas por "#".
+Serve para aplicar os estilos do CSS em somente um elemento específico.
+
+Classe, apelidado por mim como "Identificador Múltiplo", são representadas por ".".
+Serve para aplicar estilo de CSS em vários elementos de uma vez.
+
+Também é possível aplicar várias classes e IDs em um mesmo elemento, assim, misturando estilos.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Regras para ultilização de identificadores no HTML e CSS:
+
+Mesmo que essa prática funcione, não use o mesmo ID para mais de um elemento. Meio que foge do significado da coisa usar essa função em várias tags. Deixe isso para as classes.
+
+Não use nomes específicos em classes. Por exemplo: colocar uma classe de estilo chamada "verde" em várias tags. Se você tiver que alterar a cor que a classe aplica, você também vai precisar alterar o nome que está em várias tags que utilizam a mesma classe, assim, lhe fazendo ter muito mais trabalho desnessecesariamente.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hierárquia de Indentificadores
+
+Não há muita diferença da lógica de programação: suponhamos que há código de CSS que, por exemplo, altera a cor das letras e a fonte de um título, o outro código abaixo que trabalha com o mesmo elemento herda as circunstâncias causada pelo código acima, e se ele alterar novamente a cor das letras do título, o comando vai sobrepor o primeiro, mas a fonte continua sendo a que foi especificada pelo primeiro código.
+
+
+
+
+

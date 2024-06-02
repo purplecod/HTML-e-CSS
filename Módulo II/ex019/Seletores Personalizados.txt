@@ -1,0 +1,19 @@
+Pseudo-classes (sítaxe: elemento, classe ou ID HTML:nome da pseudo-classe)
+
+Podemos dizer que são funções pré-definidas de CSS que podem ser aplicadas nos elementos de HTML e que normalmente são ativadas com gatilhos.
+
+Como foi mostrado no código HTML desta pasta, quando o cursor do mouse passa sobre os quadrados na tela eles são iluminados com a cor violeta. O gatilho é o ato do cursor passar sobre os quadrados, e ele aciona a função de iluminar o quadradado com a cor violeta.
+
+Outro exemplo são os links de sites; quando eles nunca foram clicados pelo usuário, a cor deles normalmente é a azul, quando já foram, é violeta. Este é outro exemplo de pseudo-classe que acontece com freqüência em vários sites. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+pseudo-elemento(sítaxe: elemento, classe ou ID HTML::nome da pseudo-elemento)
+
+Também é usado no CSS. Aparentemente serve para estilizar e adicionar conteúdo partes bem pequenas nas páginas webs, como por exemplo adicionar pequenos símbolos ao lado de uma linha, ou estilizá-la. 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Recaptulação de símbolos de classes, pseudo-classe e pseudo-elementos
+
+# = ID - Identificador exclusivo de elementos HTMLs
+. = Classe - Identificador mútiplo de elementos HTMLs
+: = Pseudo-classe - Função pré-estabelicida que contém gatilhos para ativá-las
+:: = Pseudo-elemento - estilização em pequenas partes da página 
