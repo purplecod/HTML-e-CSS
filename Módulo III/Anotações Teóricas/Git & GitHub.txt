@@ -35,6 +35,20 @@ Seleção e Nomeação: Vá até a pasta onde está localizado o projeto que est
 Selecionando Caminho: Ao lado da caixa de texto "Local path" há um botão, clique nele e navegue até a pasta onde a pasta do projeto está localizada. ATENÇÃO: é onde a pasta do PROJETO está localizada, não a própria pasta em si.
 
 Git Ignore: Selecione a linguagem de programação na qual o projeto está sendo desenvolvido, para que os Git ignore os arquivos que não são relevantes para o projeto.
+--------------------------------------------------------------------------------------------------------------------------------
+Depois do processo de criação de um repositório ser feito, alguns arquivos vão ser adicionados à pasta selecionada na caixa de texto ''Name": gitattributes, lincença, readme e uma pasta oculta que armazena versões antigas do seu projeto, a ".git". Para desocutá-la, clique em exibir e selecione a caixinha de xis à esquerda do texto "itens ocultos".
+--------------------------------------------------------------------------------------------------------------------------------
+Criando Repositório Remoto
+
+Depois de tudo feito, o Github Desktop recomendará que o projeto seja publicado no GitHub. Clicando no botão "publish repository", automaticamente será criado um repositório no GitHub. Agora é possível acessar o código criado em qualquer lugar do mundo em qualquer máquina.
+--------------------------------------------------------------------------------------------------------------------------------
+Gerenciando Repositórios
+
+Toda vez que uns dos arquivos do repostório local for alterado, aparecerá no GuiHub Desktop o botão azul "Push origin". Ele atualizará o repositório remoto depois de ser clicado.
+
+Criando outro repositório
+
+Processo muito semelhante a criar um arquivo novo: clique em "File", em "New repository" e faça o mesmo procedimento de "Criando Repostório Local" nesta anotação.
 
 
 
